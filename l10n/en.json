@@ -76,6 +76,7 @@
     "sharedDisabled": "Disabled",
     "sharedMaintenance": "Maintenance",
     "sharedDeviceAccumulators": "Accumulators",
+    "sharedDeviceOdometer": "Accumulators",
     "sharedAlarms": "Alarms",
     "attributeSpeedLimit": "Speed Limit",
     "attributePolylineDistance": "Polyline Distance",

@@ -76,6 +76,7 @@
     "sharedDisabled": "غیرفعال شده",
     "sharedMaintenance": "تعمیر و نگهداری",
     "sharedDeviceAccumulators": "باطری",
+    "sharedDeviceOdometer": "کیلومتر شمار ماشین",
     "sharedAlarms": "هشدارها",
     "attributeSpeedLimit": "محدودیت سرعت",
     "attributePolylineDistance": "مسافت چند مسیری",
