@@ -238,6 +238,7 @@
     "mapCustomArcgis": "Custom (ArcGIS)",
     "mapCustomLabel": "Custom map",
     "mapCarto": "Cartio Base Map",
+    "mapGoogleRoadTraffic": "Google Traffic Road",
     "mapGoogleRoad": "Google Road",
     "mapGoogleSat": "Google Satellite",
     "mapOsm": "Open Street Map",

@@ -169,6 +169,10 @@
     addStyleFile('css/ol.css');
     addScriptFile('js/ol.js');
 
+    addScriptFile('js/jszip.js');
+    addScriptFile('js/xlsx.js');
+    addScriptFile('js/xlsx.full.min.js');
+
     if (debugMode) {
         addScriptFile('js/proj4-src.js');
     } else {
