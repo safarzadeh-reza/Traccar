@@ -173,6 +173,9 @@
     addScriptFile('js/xlsx.js');
     addScriptFile('js/xlsx.full.min.js');
 
+    addStyleFile('css/ol-contextmenu.min.css');
+    addScriptFile('js/ol-contextmenu.js');
+
     if (debugMode) {
         addScriptFile('js/proj4-src.js');
     } else {
