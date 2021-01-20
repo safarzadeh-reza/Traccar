@@ -436,5 +436,8 @@
     "categoryScooter": "Scooter",
     "maintenanceStart": "Start",
     "maintenancePeriod": "Period",
-    "terminalId": "Terminal ID"
+    "terminalId": "Terminal ID",
+    "succesfullTr":"Succesful Transaction",
+    "unSuccesfullTr":"Unsuccesful Transaction",
+    "sumTransaction":"Total Transaction"
 }
