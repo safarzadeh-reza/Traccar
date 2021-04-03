@@ -144,7 +144,7 @@
     "deviceStatus": "Status",
     "deviceStatusOnline": "Online",
     "deviceStatusOffline": "Offline",
-    "deviceStatusUnknown": "Unknown",
+    "deviceStatusUnknown": "No Signal",
     "groupDialog": "Group",
     "groupParent": "Group",
     "groupNoGroup": "No Group",
